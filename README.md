@@ -8,11 +8,6 @@ The secret number is a javascript exercise designed to put into practice concept
 
 *O número secreto é um exercício em javascript feito para colocar em prática conceitos e fundamentos da lógica da programação, assim como conhecimentos em Javascript*
 
-
-## [The secret number code](#logica-js-projeto//logica-js-projeto/app.js)
-
-## [O número secreto](#logica-js-projeto_inicial/logica-js-projeto/app.js)
-
 ## Observations (Observações):
 
 The code does follow good programming practices.
